@@ -1,0 +1,15 @@
+C:\Users\Tung\source\repos\TestEap\TestEap\bin\Release\netcoreapp2.1\TestEap.deps.json
+C:\Users\Tung\source\repos\TestEap\TestEap\bin\Release\netcoreapp2.1\TestEap.runtimeconfig.json
+C:\Users\Tung\source\repos\TestEap\TestEap\bin\Release\netcoreapp2.1\TestEap.runtimeconfig.dev.json
+C:\Users\Tung\source\repos\TestEap\TestEap\bin\Release\netcoreapp2.1\TestEap.dll
+C:\Users\Tung\source\repos\TestEap\TestEap\bin\Release\netcoreapp2.1\TestEap.pdb
+C:\Users\Tung\source\repos\TestEap\TestEap\obj\Release\netcoreapp2.1\TestEap.csprojAssemblyReference.cache
+C:\Users\Tung\source\repos\TestEap\TestEap\obj\Release\netcoreapp2.1\TestEap.csproj.CoreCompileInputs.cache
+C:\Users\Tung\source\repos\TestEap\TestEap\obj\Release\netcoreapp2.1\TestEap.RazorAssemblyInfo.cache
+C:\Users\Tung\source\repos\TestEap\TestEap\obj\Release\netcoreapp2.1\TestEap.RazorAssemblyInfo.cs
+C:\Users\Tung\source\repos\TestEap\TestEap\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Tung\source\repos\TestEap\TestEap\obj\Release\netcoreapp2.1\TestEap.AssemblyInfoInputs.cache
+C:\Users\Tung\source\repos\TestEap\TestEap\obj\Release\netcoreapp2.1\TestEap.AssemblyInfo.cs
+C:\Users\Tung\source\repos\TestEap\TestEap\obj\Release\netcoreapp2.1\TestEap.RazorTargetAssemblyInfo.cache
+C:\Users\Tung\source\repos\TestEap\TestEap\obj\Release\netcoreapp2.1\TestEap.dll
+C:\Users\Tung\source\repos\TestEap\TestEap\obj\Release\netcoreapp2.1\TestEap.pdb
